@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import './Home.css'
+import './Home.css';
 import { useLoaderData } from 'react-router-dom';
 import Tshirt from '../Tshirt/Tshirt';
 import Cart from '../Cart/Cart';
@@ -24,6 +24,7 @@ const Home = () => {
         console.log(remaining)
         setCart(remaining)
     }
+
     return (
         <div className='home-container'>
             <div className='t-shirt-container'>

@@ -1,0 +1,24 @@
+.orange{
+    background-color: orange;
+    padding: 5px;
+    border-radius: 8px;
+    color: white;
+}
+.aqua{
+    background-color: aqua;
+    padding: 5px;
+}
+.red{
+    background-color: red;
+    padding: 5px;
+}
+.violet{
+    background-color: violet;
+    padding: 5px;
+}
+.purple{
+    background-color: purple;
+    padding: 5px;
+    border-radius: 8px;
+    color: white;
+}
